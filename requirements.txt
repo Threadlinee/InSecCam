@@ -1,0 +1,4 @@
+scapy
+ipaddress
+requests
+netifaces

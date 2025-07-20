@@ -1,3 +1,4 @@
+colorama
 scapy
 ipaddress
 requests

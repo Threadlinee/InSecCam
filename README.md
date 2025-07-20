@@ -33,4 +33,9 @@ This tool is intended only for ethical use on networks you own or have permissio
 ## 🤝 Contributions & Feedback
 Contributions, feature requests, and bug reports are welcome! Open an issue or submit a pull request to help improve InSecCam.
 
-## © 2025 InSecCam — Developed with care by Threadlinee
+## ☕ Support Me
+If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
+
+## Educational Purposes Only!! Stay safe, stay ethical. ✌️
